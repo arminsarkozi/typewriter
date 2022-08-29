@@ -1,0 +1,2 @@
+# typewriter
+Typing animation project.
